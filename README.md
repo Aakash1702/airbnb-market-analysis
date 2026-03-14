@@ -146,6 +146,6 @@ Replace `spark.sql(...).toPandas()` calls with `pd.read_excel()` reading from th
 
 Built as part of a data analytics portfolio to demonstrate proficiency in SQL, Python, Spark, Databricks, and causal inference - with a focus on travel and economic impact analytics.
 
-**Background:** Research Associate at Destination Cleveland, with experience in visitor analytics, economic impact modeling, and insights reporting.
+**Background:** Research at Destination Cleveland, with experience in visitor analytics and insights reporting.
 
 **Connect:** [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
